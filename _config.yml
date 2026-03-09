@@ -26,7 +26,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Fu Hao"
   pronouns         : "he/his"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "PhD student, UCAS"
   location         : "Beijing,China"
   employer         : "Computer Network Information Center, Chinese Academy of Sciences"
   uri              : "https://english.cnic.cas.cn/"
@@ -361,3 +361,4 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
