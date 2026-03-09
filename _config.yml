@@ -27,7 +27,7 @@ author:
   name             : "Fu Hao"
   pronouns         : "he/his"  
   bio              : "PhD student, UCAS"
-  location         : "Beijing,China"
+  location         : "Beijing, China"
   employer         : "Computer Network Information Center, Chinese Academy of Sciences"
   uri              : "https://english.cnic.cas.cn/"
   email            : "fuhao@cnic.cn" 
@@ -361,4 +361,5 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
 
