@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Fuhao / Homepage"
+title                    : "Fuhao"
 title_separator          : "-"
 name                     : &name "Fuhao"
 description              : &description "Fuhao's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -23,9 +23,9 @@ repository               : "gswsfh/gswsfh.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  avatar           : "profile.jpg"
+  name             : "Fu Hao"
+  pronouns         : "he/his"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Beijing,China"
   employer         : "Computer Network Information Center, Chinese Academy of Sciences"
@@ -33,31 +33,31 @@ author:
   email            : "fuhao@cnic.cn" 
 
   # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
+  #academia         : # URL
+  #arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=bCREcxQAAAAJ"
-  inspire-hep      : # URL
+  #inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0001-6873-2609"
-  semantic         : # URL
-  ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
-  zotero           : # URL
+  #semantic         : # URL
+  #             : # URL
+  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  # researchgate     : # URL
+  # scopus           : # URL
+  # zotero           : # URL
 
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "gswsfh"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -80,7 +80,7 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : # Username
+  zhihu            : Gsws2024
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
@@ -90,6 +90,8 @@ publication_category:
     title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
+  patents:
+    title: 'Patents'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews

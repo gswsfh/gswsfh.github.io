@@ -1,0 +1,13 @@
+---
+title: "Flow Microelement-Driven Traffic Relationship Analysis: Robust Detection of Malicious Encrypted Traffic"
+collection: publications
+category: manuscripts
+permalink: /publication/2025-09-24-flow_microelement
+excerpt: 'Network Intrusion Detection'
+date: 2025-09-24
+venue: 'IEEE Transactions on Information Forensics and Security'
+paperurl: 'https://gswsfh.github.io/files/Flow_Microelement-Driven_Traffic_Relationship_Analysis_Robust_Detection_of_Malicious_Encrypted_Traffic.pdf'
+citation: 'Fu H, Sun D, Wei J, et al. Flow Microelement-Driven Traffic Relationship Analysis: Robust Detection of Malicious Encrypted Traffic[J]. IEEE Transactions on Information Forensics and Security, 2025.'
+---
+
+Encryption technologies randomize network communication to protect user privacy. However, attackers exploit encrypted traffic to conceal malicious activities. The existing detection methods rely primarily on traffic content or interactive patterns. Nevertheless, static methods can be easily obfuscated by advanced attacks. Since the set of potential attacks is open and infinite, models regularly lose effectiveness against novel attacks. Robust encrypted malicious traffic detection remains a valuable research area. In this paper, we propose BSTS-Net, a robust unsupervised encrypted malicious traffic detection model based entirely on traffic relations. The key motivations are to construct a relation-based traffic contextual representation and to establish dynamic baselines for anomaly detection. To represent local relations within flows, we innovatively introduce the concept of traffic microelements, which capture fine-grained interaction pattern relations. To integrate the global relationships between flows, we construct a traffic microelement space based on the Siamese neural network. Three optimization functions are proposed to optimize the intraservice, interservice and internode relations. For robust detection, we introduce a reputation-enhanced dynamic encrypted traffic detection algorithm that constructs dynamic baselines and continuously detects novel anomalies. We evaluate BSTS-Net through extensive experiments on three datasets and compare it with seven SOTA methods. Our results demonstrate its superiority, with an F1 score of more than 99.63% across all the datasets in multiclassification scenarios. Additionally, we simulate three adversarial scenarios for robustness analysis. Although the baseline methods experience an F1 score degradation of 32.21%, BSTS-Net achieves high performance, with only 1% degradation.
