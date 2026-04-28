@@ -11,7 +11,7 @@ redirect_from:
 Education
 =========
 
-* Ph.D, Chinese Academy of Sciences, 2026 (expected)
+* Ph.D, University of Chinese Academy of Sciences, 2026 (expected)
 * B.S., Jilin University, 2021
 
 Skills
