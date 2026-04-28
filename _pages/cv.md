@@ -1,4 +1,4 @@
----
+---8
 layout: archive
 title: "CV"
 permalink: /cv/
@@ -25,12 +25,6 @@ Skills
 * Tool: Git, Latex, CMake, vim.
 * AI: Pytorch, CUDA, PyTorch Geometric, Deep Graph Library, networkx, scikit-learn, libtorch, Keras, CNTK.
 * Large Language Model: Agent, Lora Fine-tuning, Transformer, GPT, BERT, Retrieval Augmented Generation, LangChain.
-* Cybersecurity-related
-  * Network Traffic Analysis: Wireshark, Fiddler, Charles, Burp Suite, TCPdump.
-  * High-Speed Flow Processing: DPDK, F-Stack.
-  * Network Intrusion Detection System: Suricata, Snort, Zeek.
-  * Reverse Engineering: IDA, OllyDbg, APKTool, Dex2jar, Androguard, Xposed, Magisk, Jadx
-
 Publications
 ============
 
